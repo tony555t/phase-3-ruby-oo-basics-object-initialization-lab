@@ -11,7 +11,8 @@ class Dog
   
 
 
-lassie = Dog.new("black","jac")
-lassie.name
-lassie.breed
-binding.pry
+
+  lassie = Dog.new("mbwa","mwitu")
+  lassie.name
+  lassie.breed
+  binding.pry
